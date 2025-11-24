@@ -53,4 +53,3 @@ Steps:
 
 
 Expected result: The final Cart window should display all added iitems, quantities, and a calculated, rounded Totalcost
-# Screenshots
